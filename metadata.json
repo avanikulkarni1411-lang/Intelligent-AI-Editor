@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent AI Editor",
+  "description": "Desktop AI-integrated terminal and coding assistance environment with natural language command synthesis, safety validation, terminal execution, and local model orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
